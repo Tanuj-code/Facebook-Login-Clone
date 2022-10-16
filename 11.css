@@ -1,0 +1,56 @@
+body{
+    border: 0px;
+    margin: 0%;
+    width: auto;
+    height: auto;
+}
+#fdiv{
+    display: block;
+    position: relative;
+}
+#fdiv p{
+    display: block;
+    color: white;
+    float: right;
+    border: 2px solid rgb(221, 49, 6);
+    padding: 1px;
+  margin-right: 5px;
+}
+#baba{
+    border-radius: 50%;
+    float: left;
+}
+#fdiv{
+    height: 50px;
+    
+    background-color: black;
+}
+#form{
+    position: relative;
+    display: block;  
+    border: 5px solid black;
+    margin: auto;
+    height: 200px;
+    width: 900px;   
+    top: 200px;
+    text-align: center;
+    
+}
+#in input{
+    display:block;
+    
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px auto;
+}
+#foot{
+    position: fixed;
+    height: 50px;
+    bottom: 0;
+    
+    background-color: black;
+    text-align: center;
+    color: white;
+    display: block;
+    width: 100%;
+}
